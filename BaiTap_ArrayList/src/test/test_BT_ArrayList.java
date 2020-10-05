@@ -26,6 +26,7 @@ public class test_BT_ArrayList {
 	private static void menu() {
 		// TODO Auto-generated method stub
 //		System.out.println("1.Thêm sinh viên");
+
 //		System.out.println("2.Xuất danh sách sinh viên");
 //		System.out.println("3.Sửa tên sinh viên");
 //		System.out.println("4.Xóa sinh viên chứa tên bất kỳ");
@@ -58,6 +59,7 @@ public class test_BT_ArrayList {
 			break;
 		default: {
 			System.out.println("bạn nhập sai mời nhập lại");
+			System.out.println("nhập lại");
 			break;
 		}
 		}
